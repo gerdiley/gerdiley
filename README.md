@@ -1,4 +1,5 @@
-<h1 align="center">Hi there! I'm a Jr. Full-Stack Developer</h1>
+<h1 align="center">Hi there!</h1>
+<h2 align="center">I'm a Jr. Full-Stack Developer</h2>
 
 - 🌱 I’m currently learning **Typescript, Angular** at **Epicode**
 
