@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm Gerardo Di Letizia</h1>
-<h3 align="center">A Jr. Full-Stack Developer</h3>
+<h1 align="center">Hi there! I'm a Jr. Full-Stack Developer</h1>
 
-- 🌱 I’m currently learning **Typescript, Angular**
+- 🌱 I’m currently learning **Typescript, Angular** at **Epicode**
 
-- 📫 How to reach me **gerardodiletizia@gmail.com**
+- 📫 You can reach me at **gerardodiletizia@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Visit my Linkedin profile:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gerardo-di-letizia-382202173/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gerardo-di-letizia-382202173/" height="30" width="40" /></a>
 </p>
